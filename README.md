@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ## Crud OOP Based Console ATM System I implemented in First Year College
+=======
+# CRUD OOP Based Console ATM System I implemented in First Year College
+>>>>>>> origin/master
 
 ### `User Interface`
 Including the Four Crud Operations : Insert, Report, Update and Delete. <br/>
